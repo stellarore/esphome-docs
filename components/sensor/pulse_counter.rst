@@ -6,7 +6,7 @@ Pulse Counter Sensor
     :image: pulse.svg
 
 The pulse counter sensor allows you to count the number of pulses and the frequency of a signal
-on any pin.
+on a digital pin.
 
 On the ESP32, this sensor is even highly accurate because it's using the hardware `pulse counter
 peripheral <https://docs.espressif.com/projects/esp-idf/en/latest/api-reference/peripherals/pcnt.html>`__
